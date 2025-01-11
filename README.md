@@ -11,13 +11,12 @@
 </div>
 
 <h4>❗ Connect ❗</h4>
-Game : Minecraft
-Version : 1.16.5 Forge
-Forge Version : 36.2.34
-Modded : Yes get-modpack [here](https://www.mediafire.com/file/32nds3snlhad8up/INFERNAL_SMP_MODPACK_V4.zip/file) (scanned, 214mb, 20 mods almost vanilla style no new bs)
-Address : RenaissanceCascade.aternos.me:63824
-status : currently offline (will be opened soon)
-
+<p>Game : Minecraft</p>
+<p>Version : 1.16.5 Forge</p>
+<p>Forge Version : 36.2.34</p>
+<p>Modded : Yes get-modpack [here](https://www.mediafire.com/file/32nds3snlhad8up/INFERNAL_SMP_MODPACK_V4.zip/file) (scanned, 214mb, 20 mods almost vanilla style no new bs)</p>
+<p>Address : RenaissanceCascade.aternos.me:63824</p>
+<p>status : currently offline (will be opened soon)</p>
 <h5> check discord for more information about server<h5>
 
 <h4>🔗 follow us! 🔗</h4>
