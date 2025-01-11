@@ -144,7 +144,7 @@
 <p>How many members are working on it? : currently only 2 people are working on it as project is quite new</p>
 | Members       |      Rank 	|
 | ------------- |      :---: 	|
-| Fakhir  	  | Admin, Owner, Builder, Creator, Scripter |
+| Fakhir  	  | Admin, Owner, Builder, Map Creator |
 | yviteli_parketi | Assistant, Overseer, playtester |
 
 <p>we are looking for more people to contribute but don't expect payment the this may change in future if project get funds.</p>
@@ -167,7 +167,9 @@
 
 <h4>🌎 World Render (work in progress!) 🌎</h4>
 
+
 <h4>📘 Gallery builds! (will be updated!) 📘</h4>
+<img src="images/town hall/" align="center"> </img>
 
 <div align="center"> 
 	<h1> 🚧 WORK IN PROGRESS 🚧 </h1>
