@@ -8,7 +8,7 @@
 
 <div align="center" >
   <p>Follow us!<p>
-    <a href="https://discord.gg/kCJnupsY"><img src="intereact/btn.png" alt="Logo" width="200" height="35" /></a>
+    <a href="https://discord.gg/kCJnupsY"><img src="intereact/btn.png" alt="Logo" height="45" /></a>
 </div>
 
 
