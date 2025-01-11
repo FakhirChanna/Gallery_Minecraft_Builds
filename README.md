@@ -11,15 +11,19 @@
 </div>
 
 <h4>🔗 follow us!</h4>
-Server discord : [click here](https://discord.gg/kCJnupsY)
-Server hosted on temproary : ([aternos](https://aternos.org/:en/))]
+<p>Server discord : [click here](https://discord.gg/kCJnupsY)</p>
+<p>Server hosted on temproary : ([aternos](https://aternos.org/:en/))]</p>
 
 <h4>🆔 Contact me!</h4>
-discord id : fakihr_ali
-facebook : [click  here](https://www.facebook.com/profile.php?id=61571317346587)
+<p>discord id : fakihr_ali</p>
+<p>facebook : [click-here](https://www.facebook.com/profile.php?id=61571317346587)</p>
 
 <h4>🌎 World Render (work in progress!)</h4>
 
 <h4>📘 Gallery builds! (will be updated!)</h4>
 
-<h1> 🚧 WORK IN PROGRESS 🚧 </h1>
+<div align="center"> 
+	<h1> 🚧 WORK IN PROGRESS 🚧 </h1>
+</div>
+
+
