@@ -10,14 +10,18 @@
     <a href="https://discord.gg/kCJnupsY"><img src="intereact/btn.png" alt="Logo" height="45" /></a>
 </div>
 
-<h4>❗ Connect ❗</h4>
+<h4>❗ Connect to server ❗</h4>
 <p>Game : Minecraft</p>
 <p>Version : 1.16.5 Forge</p>
 <p>Forge Version : 36.2.34</p>
-<p>Modded : Yes get-modpack [here](https://www.mediafire.com/file/32nds3snlhad8up/INFERNAL_SMP_MODPACK_V4.zip/file) (scanned, 214mb, 20 mods almost vanilla style no new bs)</p>
+<p>-</p>
+<p>Modded : Yes get-modpack [here](https://www.mediafire.com/file/32nds3snlhad8up/INFERNAL_SMP_MODPACK_V4.zip/file)</p>
+<p>is it heavily modded : No fully vanilla no new bs or changes only quality of life + serverside with backpack mod.
+<p>modlist? where : [here](list.html)
+<p>-</p>
 <p>Address : RenaissanceCascade.aternos.me:63824</p>
 <p>status : currently offline (will be opened soon)</p>
-<h5> check discord for more information about server<h5>
+<h5> check discord for more information about [server](https://discord.gg/kCJnupsY)<h5>
 
 <h4>🔗 follow us! 🔗</h4>
 <p>Server discord : [click here](https://discord.gg/kCJnupsY)</p>
