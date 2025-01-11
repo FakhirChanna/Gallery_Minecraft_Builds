@@ -19,10 +19,10 @@
 <h4>❗ Frequently Asked Questions ❗</h4>
 <p>what does this server will have?</p>
 
-| Features  | Done | Progress |
-| ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| Features  	|    Finished? 	|  Description 	| Progress |
+| ------------- |     :---: 	|     :---: 	|   :---:  |
+| Custom Start  | Content Cell  | Content Cell  |    24%   |
+| Content Cell  | Content Cell  | Content Cell  |    24%   |
 
 <p>is it heavily modded : No fully vanilla no new bs or changes only quality of life + serverside with backpack mod.
 <p>modlist? where : [here](list.html)
