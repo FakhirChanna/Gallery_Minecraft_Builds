@@ -1,8 +1,8 @@
-<div align="center">
+<div margin-top="3rem">
   <img src="images/RcSMP_logo.png" alt="Logo" width="240" />
 </div>
 # Gutter
-<h1 margin-top="3rem" align="center">Renaissance Cascade SMP Historical Based Server!</h1>
+<h1 align="center">Renaissance Cascade SMP Historical Based Server!</h1>
 <h3 align="center">Explore, Loot, Build, Mine & Cooperate</h3>
 <p align="center">This Server is work-in-progress and soon will be opened.</p>
 
