@@ -18,30 +18,6 @@
 
 <h4>❗ Frequently Asked Questions ❗</h4>
 <p>what does this server will have?</p>
-
-| Features  	|    Finished? 	|  Description 	| Progress |
-| ------------- |     :---: 	|     :---: 	|   :---:  |
-| Lore / History | ❌ | entire world history starting from beginning | 0% |
-| Hamlets | ✔️ | little settlements dotted around the globe |  0% |
-| Villages | ❌ | villages each with thier own windmills, river w.wheels, granaries | 0% |
-| Towns | ❌ | towns with lots of government buildings Age of empire styles yay | 0% |
-| Cities | ❌ | Medieval Dense Cities with lots of alleyways and basements to explore | 0% | 
-| Castles | ❌ | Immersive Realistic Castles with portcullis, murder holes, moats and supplies buildings like granaries with food for ages. | 0% |
-| Forts | ❌ | massive forts with lots of walls and treasures + torture chambers. |  0% |
-| Docks/Ports | ❌ | useable ships it won't get better than this i promise + seaside view and fleets. |  0% | 
-| Single Structures | ❌ | ever walk on countryside and saw an church, graveyard or maybe an primitive hut that's what this literally means. |  0% |
-| World | ❌ | Entire World Sketeched & Painted by Host. |  0% |
-| Custom Biomes | ❌ | Biomes made up of same materials thus not a mod. |  0% |
-| Custom Trees | ❌ | all sorts of trees realism 100% eye candy. |  0% |
-| Custom World objects (e.g river rocks) | ❌ | all sorts of world nature. |  0% |
-| Starting player Dungeon | ❌ | Player will start in dungeon and must escape dark souls style then find an boat to travel to mainlands. |  0% | 
-| Custom Dungeons (algo) | ❌| dungeons with loot per player so no hoarding limitless in what they will offer Random. |  0% |
-| Story Items | ❌ | items like jack's axe with efficieny 5 at starting village or how about an maps with coords for underground treasure chamber etc | 0% |  
-| BookMaking | ❌ | Custom Books to read from Skyrim Style | 0% |
-| Adding World Functions | ❌ | Serverside Functions | 0% |
-
--------
-
 <table>
   <thead>
     <tr>
