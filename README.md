@@ -18,6 +18,7 @@
 
 <h4>❗ Frequently Asked Questions ❗</h4>
 <p>what does this server will have?</p>
+
 | Features  | Done | Progress |
 | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  |
@@ -27,7 +28,7 @@
 <p>modlist? where : [here](list.html)
 <p>why the name : RenaissanceCascade </p>
 
-<h2 align="center">So now you understand what this is all about? link below to connect!</h1>
+<h2 align="center">So do you like where this is heading? then join below!</h1>
 
 <h4>❗ Connect ❗</h4>
 <p>Address : RenaissanceCascade.aternos.me:63824</p>
