@@ -10,15 +10,26 @@
     <a href="https://discord.gg/kCJnupsY"><img src="intereact/btn.png" alt="Logo" height="45" /></a>
 </div>
 
-<h4>❗ Connect to server ❗</h4>
+<h4>❗ Game information ❗</h4>
 <p>Game : Minecraft</p>
 <p>Version : 1.16.5 Forge</p>
 <p>Forge Version : 36.2.34</p>
-<p>-</p>
 <p>Modded : Yes get-modpack [here](https://www.mediafire.com/file/32nds3snlhad8up/INFERNAL_SMP_MODPACK_V4.zip/file)</p>
+
+<h4>❗ Frequently Asked Questions ❗</h4>
+<p>what does this server will have?</p>
+| Features  | Done | Progress |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+
 <p>is it heavily modded : No fully vanilla no new bs or changes only quality of life + serverside with backpack mod.
 <p>modlist? where : [here](list.html)
-<p>-</p>
+<p>why the name : RenaissanceCascade </p>
+
+<h2 align="center">So now you understand what this is all about? link below to connect!</h1>
+
+<h4>❗ Connect ❗</h4>
 <p>Address : RenaissanceCascade.aternos.me:63824</p>
 <p>status : currently offline (will be opened soon)</p>
 <h5> check discord for more information about [server](https://discord.gg/kCJnupsY)<h5>
