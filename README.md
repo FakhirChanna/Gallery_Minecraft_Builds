@@ -32,7 +32,7 @@
 | Single Structures | ❌ | ever walk on countryside and saw an church, graveyard or maybe an primitive hut that's what this literally means. |  0% |
 | World | ❌ | Entire World Sketeched & Painted by Host. |  0% |
 | Custom Biomes | ❌ | Biomes made up of same materials thus not a mod. |  0% |
-| Custom Trees | ❌ | all sorts of trees realism trees 100%  eye candy . |  0% |
+| Custom Trees | ❌ | all sorts of trees realism 100% eye candy. |  0% |
 | Custom World objects (e.g river rocks) | ❌ | all sorts of world nature. |  0% |
 | Starting player Dungeon | ❌ | Player will start in dungeon and must escape dark souls style then find an boat to travel to mainlands. |  0% | 
 | Custom Dungeons (algo) | ❌| dungeons with loot per player so no hoarding limitless in what they will offer Random. |  0% |
@@ -44,7 +44,7 @@
 <p>where can i check the world? Download Here : </p>
 <p>is it heavily modded : No fully vanilla no new bs or changes only quality of life + serverside with backpack mod.
 <p>modlist? where : [here](list.html)
-<p>why the name : RenaissanceCascade (Renaissance is very high medieval name quite don't you think and cascade is just like major event kinda the point is to make so that players are immersed in rich world filled with beuaty and history to explore and admire)</p>
+<p>why the name : RenaissanceCascade (Renaissance is very high medieval name quite don't you think and cascade is just like major event kinda the point is to make so that players are immersed in rich world filled with history to explore)</p>
 <p>how many players are max in server : We are planning to add as many player as we can handle</p>
 <p>what are rules : don't hack, crash server,build massive farms, dox other user and spread drama doing this will get instant ban cold-blooded style. 
 
