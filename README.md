@@ -169,7 +169,57 @@
 
 
 <h4>📘 Gallery builds! (will be updated!) 📘</h4>
-<img src="images/town hall/" align="center"> </img>
+<div>
+		<p>Set of Buildings</p>
+		<img src="images/town_square.png/" align="center"> </img>
+		<p>journey map view from above</p>
+		<img src="images/map_pack.png" align="center"> </img>
+		<p>Town Hall</p>
+		<img src="images/town hall.png " align="center"> </img>
+		<p>Unfinished Church</p>
+		<img src="images/church.png" align="center"> </img>
+		<p>Infantry Sleeping Quarter</p>
+		<img src="images/infantry_sleeping_quarters.png" align="center"> </img>
+		<img src="images/infantry_sleeping_quarters2.png" align="center"> </img>
+		<img src="images/infantry_sleeping_quarters3.png" align="center"> </img>
+		<p>Medieval log house</p>
+		<img src="images/log_house.png" align="center"> </img>
+		<img src="images/log_house2.png" align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+		<img src="  " align="center"> </img>
+</div>
 
 <div align="center"> 
 	<h1> 🚧 WORK IN PROGRESS 🚧 </h1>
