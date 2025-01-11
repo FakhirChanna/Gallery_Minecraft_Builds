@@ -40,6 +40,123 @@
 | BookMaking | ❌ | Custom Books to read from Skyrim Style | 0% |
 | Adding World Functions | ❌ | Serverside Functions | 0% |
 
+-------
+
+<table>
+  <thead>
+    <tr>
+      <th>Features</th>
+      <th>Finished?</th>
+      <th>Description</th>
+      <th>Progress</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lore / History</td>
+      <td>❌</td>
+      <td>Entire world history starting from the beginning</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>Hamlets</td>
+      <td>✔️</td>
+      <td>Little settlements dotted around the globe</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Villages</td>
+      <td>❌</td>
+      <td>Villages with windmills, river wheels, granaries</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>Towns</td>
+      <td>❌</td>
+      <td>Towns with government buildings, Age of Empires style</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>Castles</td>
+      <td>❌</td>
+      <td>Realistic castles with portcullis, moats, and granaries</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>Forts</td>
+      <td>❌</td>
+      <td>Massive forts with treasures and torture chambers</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>Docks/Ports</td>
+      <td>❌</td>
+      <td>Usable ships, fleets, and seaside views</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>Single Structures</td>
+      <td>❌</td>
+      <td>Primitive huts, churches, and graveyards</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>World</td>
+      <td>❌</td>
+      <td>Entire world sketched & painted by the host</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>Custom Biomes</td>
+      <td>❌</td>
+      <td>Biomes made from the same materials (no mods)</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>Custom Trees</td>
+      <td>❌</td>
+      <td>Realistic, beautiful trees</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>Custom World Objects (e.g., river rocks)</td>
+      <td>❌</td>
+      <td>Various world nature elements</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>Starting Player Dungeon</td>
+      <td>❌</td>
+      <td>Dark Souls-style dungeon escape to the mainland</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>Custom Dungeons (Algorithmic)</td>
+      <td>❌</td>
+      <td>Dungeons with random loot per player</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>Story Items</td>
+      <td>❌</td>
+      <td>Special items like Jack's axe with Efficiency 5</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>BookMaking</td>
+      <td>❌</td>
+      <td>Custom books to read, Skyrim-style</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>Adding World Functions</td>
+      <td>❌</td>
+      <td>Server-side functions</td>
+      <td>0%</td>
+    </tr>
+  </tbody>
+</table>
+
 <p>Cool! What's the world size? : 4k by 4k seems small except don't worry new areas would be added in edges for now it's big enough and it's small for gameplay reason.</p>
 <p>where can i check the world? Download Here : </p>
 <p>is it heavily modded : No fully vanilla no new bs or changes only quality of life + serverside with backpack mod.
