@@ -195,8 +195,8 @@
 		<p>Medieval Log house</p>
 		<img src="images/log_house.png" align="center"> </img>
 		<img src="images/log_house2.png" align="center"> </img>
-		<img src="images/log_interior" align="center"> </img>
-		<img src="images/log_interior2" align="center"> </img>
+		<img src="images/log_interior.png" align="center"> </img>
+		<img src="images/log_interior2.png" align="center"> </img>
 		<p>sample</p>
 		<img src="images/boat.png" align="center"> </img>
 		<img src="images/port.png" align="center"> </img>
@@ -221,7 +221,6 @@
 	  	<img src="images/conquest_bridge2.png" align="center"> </img>
 		<p>industrial</p>
     		<img src="images/factory_house.png" align="center"> </img>	  	
-     		<img src="images/conquest_bridge2.png" align="center"> </img
 		<p>tree_sample</p>
      		<img src="images/tree_sample.png" align="center"> </img>
 		<p>outpost</p>
@@ -229,7 +228,6 @@
 		<img src="images/derelict_outpost2.png	" align="center"> </img>
 
 <h3> All of the build above were created in 1.16.5 for my own future server and so i decided to not add modern blocks but if i have option would def build with those</h3>
- <h3> Most of my old works </h3>
 </div>
 
 <div align="center"> 
